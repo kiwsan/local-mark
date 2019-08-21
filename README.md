@@ -4,4 +4,4 @@ The Living Lab has been created since May 2014, This project parses the included
 
 ## Screen short
 
-![login_screen](https://github.com/kiwsan/local-mark/blob/master/screenshot_1566402568.png)
+<img src="https://github.com/kiwsan/local-mark/blob/master/screenshot_1566402568.png" width="250">
