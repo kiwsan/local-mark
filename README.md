@@ -1,3 +1,3 @@
 # Local mark
 
-This repository was created for implementing my lab project in university.
+The Living Lab has been created since May 2017.
